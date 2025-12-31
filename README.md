@@ -77,5 +77,5 @@ Enable/disable each level individually :
 4. Adjust display parameters according to your preferences
 5. The indicator will update automatically according to the configured interval
 
-6. <img width="2546" height="1289" alt="image" src="https://github.com/user-attachments/assets/b6917fe4-d68e-4505-a30a-84cbb77b9a6e" />
+ <img width="2546" height="1289" alt="image" src="https://github.com/user-attachments/assets/b6917fe4-d68e-4505-a30a-84cbb77b9a6e" />
 
