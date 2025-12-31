@@ -69,6 +69,15 @@ Enable/disable each level individually :
 - **Prior Dots Scale** : Independent scale or shared with profile
 - **Colors** : Customization of 5 periods (1m, 5m, 10m, 15m, 30m)
 
+## 🚀 Installation
+
+Copy the compiled DLL file to the Quantower indicators folder :
+   ```
+   C:\Quantower\Settings\Scripts\Indicators\GexBot
+   ```
+
+Restart Quantower
+
 ## 📖 Usage
 
 1. Open a chart in Quantower
